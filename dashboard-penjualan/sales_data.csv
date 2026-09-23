@@ -1,0 +1,201 @@
+order_id,date,region,product_category,product_name,quantity,unit_price,discount,total_sales,customer_type,payment_method,sales_channel,sales_rep
+ORD-001,2024-01-03,Jawa,Elektronik,Laptop Pro 15,2,12500000,0.05,23750000,Retail,Transfer Bank,Online,Budi Santoso
+ORD-002,2024-01-05,Sumatera,Pakaian,Kemeja Formal,5,350000,0.10,1575000,Wholesale,Kartu Kredit,Offline,Siti Rahayu
+ORD-003,2024-01-07,Kalimantan,Makanan,Snack Premium,10,85000,0.00,850000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-004,2024-01-09,Sulawesi,Elektronik,Smartphone X12,1,8500000,0.08,7820000,Retail,Transfer Bank,Online,Dewi Kusuma
+ORD-005,2024-01-11,Jawa,Furniture,Sofa Minimalis,1,4500000,0.05,4275000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-006,2024-01-13,Bali,Kecantikan,Serum Wajah,3,250000,0.10,675000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-007,2024-01-15,Jawa,Makanan,Kopi Arabika,8,120000,0.00,960000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-008,2024-01-17,Sumatera,Elektronik,Headphone BT,4,450000,0.05,1710000,Wholesale,Transfer Bank,Offline,Siti Rahayu
+ORD-009,2024-01-19,Kalimantan,Pakaian,Jaket Outdoor,2,750000,0.10,1350000,Retail,Kartu Kredit,Online,Dewi Kusuma
+ORD-010,2024-01-21,Jawa,Furniture,Meja Kerja,3,1200000,0.05,3420000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-011,2024-01-23,Sulawesi,Kecantikan,Lipstik Matte,6,180000,0.00,1080000,Retail,Dompet Digital,Online,Rina Permata
+ORD-012,2024-01-25,Bali,Makanan,Teh Herbal,12,65000,0.05,741000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-013,2024-01-27,Jawa,Elektronik,Smart TV 43,1,6800000,0.10,6120000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-014,2024-01-29,Sumatera,Pakaian,Celana Jeans,4,320000,0.00,1280000,Wholesale,Dompet Digital,Online,Siti Rahayu
+ORD-015,2024-02-01,Kalimantan,Furniture,Lemari Pakaian,1,2800000,0.08,2576000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-016,2024-02-03,Jawa,Kecantikan,Parfum Elegan,2,550000,0.05,1045000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-017,2024-02-05,Sulawesi,Elektronik,Tablet 10,2,3200000,0.10,5760000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-018,2024-02-07,Bali,Makanan,Cokelat Premium,15,95000,0.00,1425000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-019,2024-02-09,Jawa,Pakaian,Dress Batik,3,480000,0.05,1368000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-020,2024-02-11,Sumatera,Furniture,Kursi Kantor,5,1800000,0.10,8100000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-021,2024-02-13,Kalimantan,Elektronik,Kamera DSLR,1,9500000,0.05,9025000,Retail,Kartu Kredit,Online,Budi Santoso
+ORD-022,2024-02-15,Jawa,Kecantikan,Pelembab SPF,4,320000,0.10,1152000,Retail,Dompet Digital,Online,Rina Permata
+ORD-023,2024-02-17,Sulawesi,Makanan,Madu Asli,6,150000,0.00,900000,Retail,Transfer Bank,Online,Ahmad Fauzi
+ORD-024,2024-02-19,Bali,Pakaian,Kaos Polos,10,95000,0.05,902500,Wholesale,Kartu Kredit,Offline,Siti Rahayu
+ORD-025,2024-02-21,Jawa,Elektronik,Powerbank 20K,8,280000,0.08,2060800,Retail,Dompet Digital,Online,Dewi Kusuma
+ORD-026,2024-02-23,Sumatera,Furniture,Rak Buku,2,950000,0.05,1805000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-027,2024-02-25,Kalimantan,Kecantikan,Masker Wajah,20,45000,0.10,810000,Wholesale,Kartu Kredit,Online,Rina Permata
+ORD-028,2024-02-27,Jawa,Makanan,Granola Oats,8,110000,0.00,880000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-029,2024-03-01,Sulawesi,Elektronik,Speaker BT,3,650000,0.05,1852500,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-030,2024-03-03,Bali,Pakaian,Rok Mini,4,220000,0.10,792000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-031,2024-03-05,Jawa,Furniture,Tempat Tidur,1,5500000,0.05,5225000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-032,2024-03-07,Sumatera,Kecantikan,Bedak Tabur,5,130000,0.00,650000,Retail,Dompet Digital,Online,Rina Permata
+ORD-033,2024-03-09,Kalimantan,Makanan,Protein Bar,12,80000,0.05,912000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-034,2024-03-11,Jawa,Elektronik,Monitor 24,2,3800000,0.10,6840000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-035,2024-03-13,Sulawesi,Pakaian,Baju Olahraga,6,195000,0.05,1111500,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-036,2024-03-15,Bali,Furniture,Meja Makan,1,3200000,0.08,2944000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-037,2024-03-17,Jawa,Kecantikan,Sunscreen SPF50,7,210000,0.10,1323000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-038,2024-03-19,Sumatera,Makanan,Kacang Almond,9,140000,0.00,1260000,Wholesale,Dompet Digital,Online,Ahmad Fauzi
+ORD-039,2024-03-21,Kalimantan,Elektronik,Router WiFi,2,580000,0.05,1102000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-040,2024-03-23,Jawa,Pakaian,Jaket Kulit,2,890000,0.10,1602000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-041,2024-03-25,Sulawesi,Furniture,Sofa Sudut,1,7200000,0.05,6840000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-042,2024-03-27,Bali,Kecantikan,Toner Korea,8,180000,0.10,1296000,Retail,Dompet Digital,Online,Rina Permata
+ORD-043,2024-03-29,Jawa,Makanan,Kurma Premium,5,220000,0.00,1100000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-044,2024-04-01,Sumatera,Elektronik,Laptop Ultra,1,15000000,0.08,13800000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-045,2024-04-03,Kalimantan,Pakaian,Blus Wanita,6,285000,0.05,1624500,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-046,2024-04-05,Jawa,Furniture,Nakas Minimalis,4,680000,0.10,2448000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-047,2024-04-07,Sulawesi,Kecantikan,Eye Shadow,3,350000,0.05,997500,Retail,Kartu Kredit,Online,Rina Permata
+ORD-048,2024-04-09,Bali,Makanan,Smoothie Pack,10,75000,0.00,750000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-049,2024-04-11,Jawa,Elektronik,SSD 1TB,3,1200000,0.05,3420000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-050,2024-04-13,Sumatera,Pakaian,Sweater Wool,4,420000,0.10,1512000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-051,2024-04-15,Kalimantan,Furniture,Cermin Dinding,3,750000,0.05,2137500,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-052,2024-04-17,Jawa,Kecantikan,BB Cream,6,195000,0.00,1170000,Retail,Dompet Digital,Online,Rina Permata
+ORD-053,2024-04-19,Sulawesi,Makanan,Olive Oil,4,185000,0.08,680800,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-054,2024-04-21,Bali,Elektronik,Action Camera,1,4200000,0.05,3990000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-055,2024-04-23,Jawa,Pakaian,Kemeja Batik,5,320000,0.10,1440000,Wholesale,Dompet Digital,Online,Siti Rahayu
+ORD-056,2024-04-25,Sumatera,Furniture,Meja TV,2,1500000,0.05,2850000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-057,2024-04-27,Kalimantan,Kecantikan,Lip Gloss,10,85000,0.00,850000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-058,2024-04-29,Jawa,Makanan,Quinoa,7,130000,0.05,864500,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-059,2024-05-01,Sulawesi,Elektronik,Drone Mini,1,5800000,0.10,5220000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-060,2024-05-03,Bali,Pakaian,Sandal Kulit,8,250000,0.05,1900000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-061,2024-05-05,Jawa,Furniture,Kursi Makan,6,580000,0.08,3196800,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-062,2024-05-07,Sumatera,Kecantikan,Shampoo Herbal,8,120000,0.00,960000,Retail,Dompet Digital,Online,Rina Permata
+ORD-063,2024-05-09,Kalimantan,Makanan,Whey Protein,3,380000,0.05,1083000,Wholesale,Kartu Kredit,Online,Ahmad Fauzi
+ORD-064,2024-05-11,Jawa,Elektronik,Keyboard Mech,2,850000,0.10,1530000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-065,2024-05-13,Sulawesi,Pakaian,Sepatu Lari,3,680000,0.05,1938000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-066,2024-05-15,Bali,Furniture,Lampu Hias,5,350000,0.10,1575000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-067,2024-05-17,Jawa,Kecantikan,Body Lotion,9,110000,0.00,990000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-068,2024-05-19,Sumatera,Makanan,Chia Seeds,6,160000,0.05,912000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-069,2024-05-21,Kalimantan,Elektronik,Webcam HD,2,480000,0.08,883200,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-070,2024-05-23,Jawa,Pakaian,Rok Plisket,4,310000,0.10,1116000,Wholesale,Kartu Kredit,Online,Siti Rahayu
+ORD-071,2024-05-25,Sulawesi,Furniture,Rak Sepatu,3,420000,0.05,1197000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-072,2024-05-27,Bali,Kecantikan,Nail Polish,12,75000,0.00,900000,Retail,Dompet Digital,Online,Rina Permata
+ORD-073,2024-05-29,Jawa,Makanan,Green Tea,15,55000,0.05,783750,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-074,2024-05-31,Sumatera,Elektronik,Smart Watch,2,2800000,0.10,5040000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-075,2024-06-02,Kalimantan,Pakaian,Topi Fedora,5,180000,0.05,855000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-076,2024-06-04,Jawa,Furniture,Sofa Bed,1,6500000,0.08,5980000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-077,2024-06-06,Sulawesi,Kecantikan,Micellar Water,6,140000,0.10,756000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-078,2024-06-08,Bali,Makanan,Granola Bar,20,65000,0.00,1300000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-079,2024-06-10,Jawa,Elektronik,USB Hub,5,320000,0.05,1520000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-080,2024-06-12,Sumatera,Pakaian,Blazer Formal,2,650000,0.10,1170000,Wholesale,Kartu Kredit,Online,Siti Rahayu
+ORD-081,2024-06-14,Kalimantan,Furniture,Meja Belajar,2,1350000,0.05,2565000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-082,2024-06-16,Jawa,Kecantikan,Essence Korea,4,280000,0.00,1120000,Retail,Dompet Digital,Online,Rina Permata
+ORD-083,2024-06-18,Sulawesi,Makanan,Susu Almond,8,95000,0.08,699200,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-084,2024-06-20,Bali,Elektronik,Printer Laser,1,2500000,0.05,2375000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-085,2024-06-22,Jawa,Pakaian,Celana Chino,5,280000,0.10,1260000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-086,2024-06-24,Sumatera,Furniture,Gantungan Baju,4,450000,0.05,1710000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-087,2024-06-26,Kalimantan,Kecantikan,Blush On,7,115000,0.00,805000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-088,2024-06-28,Jawa,Makanan,Dark Chocolate,10,88000,0.05,836000,Wholesale,Dompet Digital,Online,Ahmad Fauzi
+ORD-089,2024-07-01,Sulawesi,Elektronik,Cooling Pad,3,380000,0.10,1026000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-090,2024-07-03,Bali,Pakaian,Scarf Batik,6,160000,0.05,912000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-091,2024-07-05,Jawa,Furniture,Laci Plastik,8,280000,0.08,2060800,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-092,2024-07-07,Sumatera,Kecantikan,Cleanser Foam,5,145000,0.00,725000,Retail,Dompet Digital,Online,Rina Permata
+ORD-093,2024-07-09,Kalimantan,Makanan,Yogurt Drink,12,55000,0.05,627000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-094,2024-07-11,Jawa,Elektronik,Gaming Chair,1,3600000,0.10,3240000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-095,2024-07-13,Sulawesi,Pakaian,Baju Tidur,8,175000,0.05,1330000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-096,2024-07-15,Bali,Furniture,Pot Tanaman,6,320000,0.10,1728000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-097,2024-07-17,Jawa,Kecantikan,Vitamin C Serum,5,350000,0.00,1750000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-098,2024-07-19,Sumatera,Makanan,Oatmeal Instan,15,72000,0.05,1026000,Wholesale,Dompet Digital,Online,Ahmad Fauzi
+ORD-099,2024-07-21,Kalimantan,Elektronik,Mouse Wireless,4,285000,0.08,1048800,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-100,2024-07-23,Jawa,Pakaian,Terusan Midi,3,465000,0.10,1255500,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-101,2024-07-25,Sulawesi,Furniture,Karpet Bulu,2,1850000,0.05,3515000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-102,2024-07-27,Bali,Kecantikan,Face Wash,8,98000,0.00,784000,Retail,Dompet Digital,Online,Rina Permata
+ORD-103,2024-07-29,Jawa,Makanan,Butter Almond,6,165000,0.05,939300,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-104,2024-07-31,Sumatera,Elektronik,Smart Speaker,2,1200000,0.10,2160000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-105,2024-08-02,Kalimantan,Pakaian,Daster Batik,10,145000,0.05,1377500,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-106,2024-08-04,Jawa,Furniture,Penyekat Ruang,1,2200000,0.08,2024000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-107,2024-08-06,Sulawesi,Kecantikan,Retinol Cream,3,420000,0.00,1260000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-108,2024-08-08,Bali,Makanan,Dates Medjool,5,280000,0.05,1330000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-109,2024-08-10,Jawa,Elektronik,Earbuds TWS,3,950000,0.10,2565000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-110,2024-08-12,Sumatera,Pakaian,Gamis Syari,4,480000,0.05,1824000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-111,2024-08-14,Kalimantan,Furniture,Lemari Kaca,1,3800000,0.08,3496000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-112,2024-08-16,Jawa,Kecantikan,Hyaluronic Acid,4,380000,0.00,1520000,Retail,Dompet Digital,Online,Rina Permata
+ORD-113,2024-08-18,Sulawesi,Makanan,Mixed Nuts,8,195000,0.05,1482000,Wholesale,Kartu Kredit,Online,Ahmad Fauzi
+ORD-114,2024-08-20,Bali,Elektronik,Electric Kettle,2,580000,0.10,1044000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-115,2024-08-22,Jawa,Pakaian,Celana Pendek,7,165000,0.05,1097250,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-116,2024-08-24,Sumatera,Furniture,Meja Rias,1,2800000,0.08,2576000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-117,2024-08-26,Kalimantan,Kecantikan,Hair Mask,6,220000,0.00,1320000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-118,2024-08-28,Jawa,Makanan,Jeruk Nipis Squeeze,10,45000,0.05,427500,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-119,2024-08-30,Sulawesi,Elektronik,Vacuum Cleaner,1,1800000,0.10,1620000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-120,2024-09-01,Bali,Pakaian,Baju Renang,3,395000,0.05,1125750,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-121,2024-09-03,Jawa,Furniture,Kursi Santai,2,1650000,0.08,3036000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-122,2024-09-05,Sumatera,Kecantikan,Facial Scrub,5,168000,0.00,840000,Retail,Dompet Digital,Online,Rina Permata
+ORD-123,2024-09-07,Kalimantan,Makanan,Protein Shake,4,310000,0.05,1178000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-124,2024-09-09,Jawa,Elektronik,Air Purifier,1,2200000,0.10,1980000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-125,2024-09-11,Sulawesi,Pakaian,Jas Pria,1,1800000,0.05,1710000,Wholesale,Dompet Digital,Online,Siti Rahayu
+ORD-126,2024-09-13,Bali,Furniture,Bangku Kayu,4,580000,0.08,2132800,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-127,2024-09-15,Jawa,Kecantikan,Night Cream,4,325000,0.00,1300000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-128,2024-09-17,Sumatera,Makanan,Freeze Dried Fruit,6,285000,0.05,1623000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-129,2024-09-19,Kalimantan,Elektronik,Ring Light,2,750000,0.10,1350000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-130,2024-09-21,Jawa,Pakaian,Sepatu Heels,3,520000,0.05,1482000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-131,2024-09-23,Sulawesi,Furniture,Cermin Meja,3,480000,0.08,1324800,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-132,2024-09-25,Bali,Kecantikan,Makeup Brush,5,240000,0.00,1200000,Retail,Dompet Digital,Online,Rina Permata
+ORD-133,2024-09-27,Jawa,Makanan,Coconut Sugar,12,68000,0.05,775200,Wholesale,Kartu Kredit,Online,Ahmad Fauzi
+ORD-134,2024-09-29,Sumatera,Elektronik,Blender Portabel,2,680000,0.10,1224000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-135,2024-10-01,Kalimantan,Pakaian,Hoodie Fleece,4,385000,0.05,1463000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-136,2024-10-03,Jawa,Furniture,Bantal Sofa,8,185000,0.08,1362800,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-137,2024-10-05,Sulawesi,Kecantikan,Lip Liner,6,95000,0.00,570000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-138,2024-10-07,Bali,Makanan,Spirulina,4,220000,0.05,836000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-139,2024-10-09,Jawa,Elektronik,Laptop Stand,3,580000,0.10,1566000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-140,2024-10-11,Sumatera,Pakaian,Cardigan Knit,5,390000,0.05,1852500,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-141,2024-10-13,Kalimantan,Furniture,Meja Lipat,2,1100000,0.08,2024000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-142,2024-10-15,Jawa,Kecantikan,AHA BHA Toner,3,380000,0.00,1140000,Retail,Dompet Digital,Online,Rina Permata
+ORD-143,2024-10-17,Sulawesi,Makanan,Kefir,6,185000,0.05,1053450,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-144,2024-10-19,Bali,Elektronik,Smart Plug,5,195000,0.10,877500,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-145,2024-10-21,Jawa,Pakaian,Rok Denim,4,360000,0.05,1368000,Wholesale,Dompet Digital,Online,Siti Rahayu
+ORD-146,2024-10-23,Sumatera,Furniture,Lampu Tidur,3,480000,0.08,1324800,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-147,2024-10-25,Kalimantan,Kecantikan,Eyeliner,8,120000,0.00,960000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-148,2024-10-27,Jawa,Makanan,Gula Aren,10,85000,0.05,807500,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-149,2024-10-29,Sulawesi,Elektronik,Hard Disk Ext,1,1500000,0.10,1350000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-150,2024-10-31,Bali,Pakaian,Baju Lebaran,3,680000,0.05,1938000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-151,2024-11-02,Jawa,Furniture,Meja Komputer,1,2500000,0.08,2300000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-152,2024-11-04,Sumatera,Kecantikan,Collagen Drink,5,280000,0.00,1400000,Retail,Dompet Digital,Online,Rina Permata
+ORD-153,2024-11-06,Kalimantan,Makanan,Stevia,8,115000,0.05,874000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-154,2024-11-08,Jawa,Elektronik,Gaming Mouse,2,650000,0.10,1170000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-155,2024-11-10,Sulawesi,Pakaian,Kemeja Flannel,6,285000,0.05,1624500,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-156,2024-11-12,Bali,Furniture,Rak Dapur,2,1650000,0.08,3036000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-157,2024-11-14,Jawa,Kecantikan,Peptide Serum,3,520000,0.00,1560000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-158,2024-11-16,Sumatera,Makanan,Mie Shirataki,10,68000,0.05,646000,Wholesale,Dompet Digital,Online,Ahmad Fauzi
+ORD-159,2024-11-18,Kalimantan,Elektronik,Proyektor Mini,1,3200000,0.10,2880000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-160,2024-11-20,Jawa,Pakaian,Jaket Bomber,2,580000,0.05,1102000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-161,2024-11-22,Sulawesi,Furniture,Dispenser Galon,1,850000,0.08,782000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-162,2024-11-24,Bali,Kecantikan,Facial Mist,6,155000,0.00,930000,Retail,Dompet Digital,Online,Rina Permata
+ORD-163,2024-11-26,Jawa,Makanan,Bubuk Matcha,5,195000,0.05,926250,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-164,2024-11-28,Sumatera,Elektronik,Power Station,1,8500000,0.10,7650000,Wholesale,Transfer Bank,Offline,Budi Santoso
+ORD-165,2024-11-30,Kalimantan,Pakaian,Celana Jogger,5,245000,0.05,1163750,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-166,2024-12-02,Jawa,Furniture,Tempat Sampah,4,350000,0.08,1288000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-167,2024-12-04,Sulawesi,Kecantikan,Mascara,5,195000,0.00,975000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-168,2024-12-06,Bali,Makanan,Dried Mango,8,145000,0.05,1102000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-169,2024-12-08,Jawa,Elektronik,iPhone 15,2,18000000,0.10,32400000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-170,2024-12-10,Sumatera,Pakaian,Baju Natal,6,380000,0.05,2166000,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-171,2024-12-12,Kalimantan,Furniture,Pohon Natal,3,950000,0.08,2622000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-172,2024-12-14,Jawa,Kecantikan,Holiday Set,4,850000,0.00,3400000,Retail,Dompet Digital,Online,Rina Permata
+ORD-173,2024-12-16,Sulawesi,Makanan,Hamper Lebaran,5,450000,0.05,2137500,Wholesale,Kartu Kredit,Online,Ahmad Fauzi
+ORD-174,2024-12-18,Bali,Elektronik,MacBook Air M3,1,22000000,0.08,20240000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-175,2024-12-20,Jawa,Pakaian,Gaun Pesta,2,1200000,0.10,2160000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-176,2024-12-22,Sumatera,Furniture,Set Ruang Tamu,1,12000000,0.05,11400000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-177,2024-12-24,Kalimantan,Kecantikan,Gift Set Beauty,3,680000,0.00,2040000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-178,2024-12-26,Jawa,Makanan,Hamper Premium,4,1200000,0.05,4560000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-179,2024-12-28,Sulawesi,Elektronik,Gaming Console,1,7500000,0.10,6750000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-180,2024-12-30,Bali,Pakaian,Baju Tahun Baru,5,450000,0.05,2137500,Retail,Kartu Kredit,Online,Siti Rahayu
+ORD-181,2024-01-31,Jawa,Elektronik,Tablet Gaming,1,5500000,0.05,5225000,Wholesale,Transfer Bank,Online,Budi Santoso
+ORD-182,2024-02-28,Sumatera,Furniture,Kasur Spring Bed,1,8500000,0.10,7650000,Wholesale,Transfer Bank,Offline,Dewi Kusuma
+ORD-183,2024-03-31,Kalimantan,Kecantikan,Perfume Set,2,1200000,0.05,2280000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-184,2024-04-30,Jawa,Makanan,Vitamin Complex,6,195000,0.00,1170000,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-185,2024-05-31,Sulawesi,Pakaian,Baju Muslim,4,380000,0.05,1444000,Retail,Transfer Bank,Offline,Siti Rahayu
+ORD-186,2024-06-30,Bali,Elektronik,Microphone,1,1800000,0.10,1620000,Retail,Kartu Kredit,Online,Budi Santoso
+ORD-187,2024-07-31,Jawa,Furniture,Lemari Buku,1,3500000,0.08,3220000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-188,2024-08-31,Sumatera,Kecantikan,Eye Cream,4,350000,0.00,1400000,Retail,Dompet Digital,Online,Rina Permata
+ORD-189,2024-09-30,Kalimantan,Makanan,Superfood Mix,5,280000,0.05,1330000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-190,2024-10-31,Jawa,Elektronik,Tripod Kamera,2,450000,0.10,810000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-191,2024-11-30,Sulawesi,Pakaian,Kemeja Linen,5,320000,0.05,1520000,Retail,Dompet Digital,Online,Siti Rahayu
+ORD-192,2024-12-31,Bali,Furniture,Sofa Minimalis,1,5200000,0.08,4784000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-193,2024-02-14,Jawa,Kecantikan,Valentine Set,5,980000,0.00,4900000,Retail,Kartu Kredit,Online,Rina Permata
+ORD-194,2024-03-08,Sumatera,Makanan,Cake Premium,3,450000,0.05,1282500,Retail,Dompet Digital,Online,Ahmad Fauzi
+ORD-195,2024-04-22,Kalimantan,Elektronik,Solar Charger,2,680000,0.10,1224000,Retail,Transfer Bank,Offline,Budi Santoso
+ORD-196,2024-05-12,Jawa,Pakaian,Sepatu Formal,2,850000,0.05,1615000,Wholesale,Kartu Kredit,Online,Siti Rahayu
+ORD-197,2024-06-18,Sulawesi,Furniture,Jam Dinding,5,280000,0.08,1288000,Retail,Transfer Bank,Offline,Dewi Kusuma
+ORD-198,2024-07-28,Bali,Kecantikan,Suncream PA+++,6,245000,0.00,1470000,Retail,Dompet Digital,Online,Rina Permata
+ORD-199,2024-08-15,Jawa,Makanan,Bumbu Rempah,8,125000,0.05,950000,Retail,Kartu Kredit,Online,Ahmad Fauzi
+ORD-200,2024-09-20,Sumatera,Elektronik,LED Strip,10,285000,0.10,2565000,Retail,Transfer Bank,Offline,Budi Santoso
